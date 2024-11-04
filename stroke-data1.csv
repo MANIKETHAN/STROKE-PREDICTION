@@ -1,5 +1,5 @@
 id,gender,age,hypertension,heart_disease,ever_married
-9046,Male,67,0,1,Yes
+9046,Male,67,0,1,No
 51676,Female,61,0,0,Yes
 31112,Male,80,0,1,Yes
 60182,Female,49,0,0,Yes
